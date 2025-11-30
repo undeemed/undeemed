@@ -7,7 +7,7 @@
 
 
 Top 3:
-- [WebBrain](https://github.com/shlawgathon/WebBrain): AI Browser History Recall - chat with your history, describe something you've seen before online and AI will provide information. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_i-had-lots-of-fun-at-the-mongodb-agentic-activity-7383038759665164288-yzTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
+- [WebBrain](https://github.com/shlawgathon/WebBrain): AI Browser History Recall - chat with your history, describe something you've seen before online and AI will recall for you. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_i-had-lots-of-fun-at-the-mongodb-agentic-activity-7383038759665164288-yzTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
 ---
 Finalist:
 - [ProductKit](https://github.com/shlawgathon/productkit): Product Image to Shopify Listing with AI Description, Infographic, Manual/Usage/Maintence Info, Showcase Video, and 3D Asset With AR Interaction. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_github-shlawgathonproductkit-an-agentic-activity-7398606880346030080-OeHb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
