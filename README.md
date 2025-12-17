@@ -7,7 +7,8 @@
 
 
 Top 3:
-- [WebBrain](https://github.com/shlawgathon/WebBrain): AI Browser History Recall - chat with your history, describe something you've seen before online and AI will recall for you. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_i-had-lots-of-fun-at-the-mongodb-agentic-activity-7383038759665164288-yzTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
+- [WebBrain](https://github.com/shlawgathon/WebBrain): AI Browser History Recall - chat with your history, describe something visited before online and AI will recall for you. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_i-had-lots-of-fun-at-the-mongodb-agentic-activity-7383038759665164288-yzTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
+- [ICGB (Intercontinental Ballistic Gifts)]: Replacing Santa with AI - A logistics platform where Santa can now remotely send - not missiles - but gifts, via a nukemap. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_last-night-we-aritra-saharay-wei-tu-and-activity-7406439444557443072-a_O6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
 ---
 Finalist:
 - [ProductKit](https://github.com/shlawgathon/productkit): Product Image to Shopify Listing with AI Description, Infographic, Manual/Usage/Maintence Info, Showcase Video, and 3D Asset With AR Interaction. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_github-shlawgathonproductkit-an-agentic-activity-7398606880346030080-OeHb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
@@ -19,6 +20,7 @@ Sad:
 - [Pal](https://github.com/shlawgathon/pal): Automatically ingests 10,000s of DSLR images, categorizes them, semantically selects the highest quality picture in each category, and applies post processing filters.
 ___
 [Non-Code Stuff](https://github.com/undeemed/Portfilo) - Research, Figma, and hardware specs.
+
 
 
 
