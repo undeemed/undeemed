@@ -7,7 +7,7 @@
 
 
 Top 3:
-- [WebBrain](https://github.com/shlawgathon/WebBrain): AI Browser History Recall - describe anything online you've visited before and AI will recall for you. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_i-had-lots-of-fun-at-the-mongodb-agentic-activity-7383038759665164288-yzTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
+- [WebBrain](https://github.com/shlawgathon/WebBrain): AI Browser History Recall - describe anything online that you've visited before and AI will recall for you. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_i-had-lots-of-fun-at-the-mongodb-agentic-activity-7383038759665164288-yzTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
 - [ICGB (Intercontinental Ballistic Gifts)](https://github.com/shlawgathon/ICBG): Replacing Santa with AI - A logistics platform where Santa can now remotely send - not missiles - but gifts, via a nukemap. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_last-night-we-aritra-saharay-wei-tu-and-activity-7406439444557443072-a_O6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
 ---
 Finalist:
@@ -20,6 +20,7 @@ Sad:
 - [Pal](https://github.com/shlawgathon/pal): Automatically ingests 10,000s of DSLR images, categorizes them, semantically selects the highest quality picture in each category, and applies post processing filters.
 ___
 [Non-Code Stuff](https://github.com/undeemed/Portfilo) - Research, Figma, and hardware specs.
+
 
 
 
