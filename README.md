@@ -18,6 +18,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=undeemed&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" height="28" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="28"/>
@@ -31,3 +32,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="28"/>
 </p>
+
