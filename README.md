@@ -1,8 +1,9 @@
 ![Jerry's GitHub stats](https://github-readme-stats-five-pink.vercel.app/api?username=undeemed&show_icons=true&theme=transparent&hide_title=true)
 ![Top Langs](https://github-readme-stats-five-pink.vercel.app/api/top-langs/?username=Undeemed&layout=compact&show_icons=true&theme=transparent)
-![Time Per Lang](https://github-readme-stats.hackclub.dev/api/wakatime?username=22685&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&langs_count=4&layout=compact&cache_seconds=0&theme=transparent)
 
-## [Hackathons](https://github.com/orgs/shlawgathon/repositories):
+---
+
+### [Hackathons](https://github.com/orgs/shlawgathon/repositories):
 
 #### Top 3:
 - <a href="https://cerebralvalley.ai/e/mongoDB-hackathon?tab=guest-list"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" alt="MongoDB Win" /></a> [WebBrain](https://github.com/shlawgathon/WebBrain): AI Browser History Recall - describe anything online that you've visited before and AI will recall for you. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_i-had-lots-of-fun-at-the-mongodb-agentic-activity-7383038759665164288-yzTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
@@ -13,7 +14,7 @@
 - <a href="https://cerebralvalley.ai/e/bfl-hackathon?tab=guest-list"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d7f0fad0-2180-4105-805f-f1f64e1c31a0" /> [ProductKit](https://github.com/shlawgathon/productkit): Product Image to Shopify Listing with one click + 3D Asset With AR Interaction. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_github-shlawgathonproductkit-an-agentic-activity-7398606880346030080-OeHb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
 - <a href="https://cerebralvalley.ai/e/2025-ted-ai-hackathon?tab=guest-list"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/32b799ee-31d9-479f-a326-7516553caf1c" /> [SportsClips](https://github.com/shlawgathon/sportsclips): TikTok sports highlights & live commentary via video chunking pipeline with Gemini detection. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_another-day-another-hackathon-shack15-activity-7385938406486437888-_u5O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
 
-<br />
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=undeemed&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" height="28" />
@@ -28,3 +29,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="28"/>
 </p>
+
+![Time Per Lang](https://github-readme-stats.hackclub.dev/api/wakatime?username=22685&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&langs_count=4&layout=compact&cache_seconds=0&theme=transparent)
