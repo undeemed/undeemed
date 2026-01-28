@@ -12,7 +12,7 @@
 ### [Hackathons](https://github.com/orgs/shlawgathon/repositories):
 
 #### Top 3:
-- <a href="https://cerebralvalley.ai/e/mongoDB-hackathon?tab=guest-list"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" alt="MongoDB Win" /></a> [WebBrain](https://github.com/shlawgathon/WebBrain): AI Browser History Recall - describe anything online that you've visited before and AI will recall for you. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_i-had-lots-of-fun-at-the-mongodb-agentic-activity-7383038759665164288-yzTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
+- <a href="https://cerebralvalley.ai/e/mongoDB-hackathon?tab=guest-list" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" alt="MongoDB Win" /></a> [WebBrain](https://github.com/shlawgathon/WebBrain): AI Browser History Recall - describe anything online that you've visited before and AI will recall for you. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_i-had-lots-of-fun-at-the-mongodb-agentic-activity-7383038759665164288-yzTn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
 - <a href="https://luma.com/9ecbetao?tk=KZdXd4"> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/af93da54-35c8-4218-b9a9-685d637de06b" /> [Intercontinental Ballistic Gifts](https://github.com/shlawgathon/ICBG): A logistics platform where Santa can now remotely send gifts via a nukemap. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_last-night-we-aritra-saharay-wei-tu-and-activity-7406439444557443072-a_O6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
 
 #### Top 6:
@@ -51,5 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" height="24"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" height="24"/>
 </p>
+
 
 
