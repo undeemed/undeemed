@@ -31,7 +31,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="28"/>
 </p>
-
-![Time Per Lang](https://github-readme-stats.hackclub.dev/api/wakatime?username=22685&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&langs_count=4&layout=compact&cache_seconds=0&theme=transparent)
-
-
