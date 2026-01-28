@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats-five-pink.vercel.app/api?username=undeemed&show_icons=true&theme=transparent&hide_title=true" alt="Jerry's GitHub stats" />
-  <img src="https://github-readme-stats-five-pink.vercel.app/api/top-langs/?username=Undeemed&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=undeemed&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" height="50" />
-</p>
-
----
-
 ### [Hackathons](https://github.com/orgs/shlawgathon/repositories):
 
 #### Top 3:
@@ -21,6 +10,15 @@
 - <a href="https://cerebralvalley.ai/e/2025-ted-ai-hackathon?tab=guest-list"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/32b799ee-31d9-479f-a326-7516553caf1c" /> [SportsClips](https://github.com/shlawgathon/sportsclips): TikTok sports highlights & live commentary via video chunking pipeline with Gemini detection. [LinkedIn](https://www.linkedin.com/posts/xiaojerry_another-day-another-hackathon-shack15-activity-7385938406486437888-_u5O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEerNM8BaiLwsyO2-11sjJzKRTO2VXWvfD4)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=undeemed&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" height="50" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-five-pink.vercel.app/api?username=undeemed&show_icons=true&theme=transparent&hide_title=true" alt="Jerry's GitHub stats" />
+  <img src="https://github-readme-stats-five-pink.vercel.app/api/top-langs/?username=Undeemed&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="24"/>
@@ -51,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" height="24"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" height="24"/>
 </p>
+
 
 
 
