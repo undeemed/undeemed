@@ -1,6 +1,11 @@
-![Jerry's GitHub stats](https://github-readme-stats-five-pink.vercel.app/api?username=undeemed&show_icons=true&theme=transparent&hide_title=true)
-![Top Langs](https://github-readme-stats-five-pink.vercel.app/api/top-langs/?username=Undeemed&layout=compact&show_icons=true&theme=transparent)
-<img src="https://komarev.com/ghpvc/?username=undeemed&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" height="50"/>
+<p align="center">
+  <img src="https://github-readme-stats-five-pink.vercel.app/api?username=undeemed&show_icons=true&theme=transparent&hide_title=true" alt="Jerry's GitHub stats" />
+  <img src="https://github-readme-stats-five-pink.vercel.app/api/top-langs/?username=Undeemed&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=undeemed&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" height="50" />
+</p>
 
 ---
 
@@ -46,4 +51,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" height="24"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" height="24"/>
 </p>
+
 
