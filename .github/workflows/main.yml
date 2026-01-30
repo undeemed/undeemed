@@ -22,6 +22,7 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_PROFILE_VIEWS: false
           SHOW_LANGUAGE_PER_REPO: false
-          BADGE_STYLE: for-the-badge
+          BADGE_STYLE: flat-square
+          SHOW_EDITORS: false
           
           
