@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=undeemed&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" height="50" />
+  <img src="https://komarev.com/ghpvc/?username=undeemed&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -49,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" height="24"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" height="24"/>
 </p>
+
 
 
 
