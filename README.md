@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### [Hackathons](https://github.com/orgs/shlawgathon/repositories):
 
 #### Top 3:
