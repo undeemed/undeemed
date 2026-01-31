@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BADGE_STYLE: flat-square
+          BADGE_STYLE: for-the-badge
           SHOW_TIMEZONE: false
           SHOW_SHORT_INFO: false
           SHOW_UPDATED_DATE: true
