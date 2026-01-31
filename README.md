@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-five-pink.vercel.app/api?username=undeemed&show_icons=true&theme=transparent&hide_title=true" alt="Jerry's GitHub stats" />
-  <img src="https://github-readme-stats-five-pink.vercel.app/api/top-langs/?username=Undeemed&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
+  <img src="https://readme-sigma-ten.vercel.app/api?username=undeemed&show_icons=true&theme=transparent&hide_title=true" alt="Jerry's GitHub stats" />
+  <img src="https://readme-sigma-ten.vercel.app/api/top-langs/?username=Undeemed&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
 </p>
 
 <p align="center">
