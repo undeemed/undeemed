@@ -59,10 +59,31 @@
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.68%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56.69%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3171 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+🌆 Daytime                18339 commits       ████████░░░░░░░░░░░░░░░░░   33.77 % 
+🌃 Evening                19332 commits       █████████░░░░░░░░░░░░░░░░   35.60 % 
+🌙 Night                  13461 commits       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   3500 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Tuesday                  6097 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Wednesday                7267 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Thursday                 8884 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Friday                   7780 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Saturday                 15505 commits       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+Sunday                   5270 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+```
 
 
- Last Updated on 19/04/2026 08:45:11 UTC
+
+ Last Updated on 19/04/2026 09:46:46 UTC
 <!--END_SECTION:waka-->
 
 
