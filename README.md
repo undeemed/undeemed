@@ -45,10 +45,22 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2011%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.00%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 24/07/2026 07:52:54 UTC
+```text
+🌞 Morning                3654 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+🌆 Daytime                19182 commits       █████████░░░░░░░░░░░░░░░░   34.01 % 
+🌃 Evening                19395 commits       █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌙 Night                  14171 commits       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+```
+
+
+
+ Last Updated on 24/07/2026 10:38:54 UTC
 <!--END_SECTION:waka-->
 
 
