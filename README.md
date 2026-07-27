@@ -45,22 +45,47 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C176%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.02%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-590%20hrs%2022%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.04%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                3654 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-🌆 Daytime                19188 commits       ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌃 Evening                19422 commits       █████████░░░░░░░░░░░░░░░░   34.39 % 
-🌙 Night                  14209 commits       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+🌆 Daytime                19190 commits       ████████░░░░░░░░░░░░░░░░░   33.97 % 
+🌃 Evening                19436 commits       █████████░░░░░░░░░░░░░░░░   34.40 % 
+🌙 Night                  14215 commits       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
 ```
 
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 15:00:07 UTC
+```text
+⏱ AI Coding Time: 9 hrs 14 mins (63.56%)
+
+✍️ 2,249 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 116,357,652 Input Tokens, 586,463 Output Tokens
+
+💵 $519.39 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 95 AI Prompts
+
+GPT                      2,285 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 444 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 17:23:19 UTC
 <!--END_SECTION:waka-->
 
 
