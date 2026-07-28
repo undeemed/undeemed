@@ -28,6 +28,7 @@ jobs:
           SHOW_LANGUAGE: false
           SHOW_PROJECTS: false
           SHOW_DAYS_OF_WEEK: false
+          SHOW_AI_CODING: false
           
           
           
