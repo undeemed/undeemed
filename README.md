@@ -51,8 +51,18 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.20%20million%20lines%20of%20code-blue?style=for-the-badge)
 
+**I'm a Night 🦉** 
 
- Last Updated on 12/08/2026 10:26:12 UTC
+```text
+🌞 Morning                4424 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+🌆 Daytime                20213 commits       ████████░░░░░░░░░░░░░░░░░   33.23 % 
+🌃 Evening                20743 commits       █████████░░░░░░░░░░░░░░░░   34.10 % 
+🌙 Night                  15453 commits       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+```
+
+
+
+ Last Updated on 12/08/2026 12:11:52 UTC
 <!--END_SECTION:waka-->
 
 
