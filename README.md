@@ -28,7 +28,7 @@
   <img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" height="24"/>
   &nbsp;&middot;&nbsp;
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="24"/>
-  <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" height="24"/>
+  <img align="absmiddle" src="https://planetscale.com/brand/planetscale-logo-mark-white.svg" alt="planetscale" height="24"/>
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="24"/>
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" height="24"/>
   &nbsp;&middot;&nbsp;
