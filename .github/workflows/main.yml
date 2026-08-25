@@ -18,7 +18,7 @@ jobs:
           SHOW_TIMEZONE: false
           SHOW_SHORT_INFO: false
           SHOW_UPDATED_DATE: true
-          SHOW_LINES_OF_CODE: true
+          SHOW_LINES_OF_CODE: false
           SHOW_COMMIT: false
           SHOW_TOTAL_CODE_TIME: true
           SHOW_LOC_CHART: false
