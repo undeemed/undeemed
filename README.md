@@ -7,11 +7,6 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://readme-sigma-ten.vercel.app/api?username=undeemed&show_icons=true&theme=transparent&hide_title=true" alt="Jerry's GitHub stats" />
-  <img src="https://readme-sigma-ten.vercel.app/api/top-langs/?username=Undeemed&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
-</p>
-
-<p align="center">
   <img align="absmiddle" src="https://cdn.simpleicons.org/apple/cccccc" alt="apple" height="24"/>
   <img align="absmiddle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" height="24"/>
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="24"/>
@@ -44,4 +39,9 @@
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="24"/>
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" height="24"/>
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" height="24"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-sigma-ten.vercel.app/api?username=undeemed&show_icons=true&theme=transparent&hide_title=true" alt="Jerry's GitHub stats" />
+  <img src="https://readme-sigma-ten.vercel.app/api/top-langs/?username=Undeemed&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
 </p>
