@@ -56,7 +56,7 @@ jobs:
           counter = (
               '<p>\n'
               '  <img align="left" src="https://readme-sigma-ten.vercel.app/api/visitors" alt="Profile views" />\n'
-              f'  <img align="right" src="https://readme-sigma-ten.vercel.app/api/code-time?minutes={minutes}" '
+              f'  <img align="right" src="https://readme-sigma-ten.vercel.app/api/code-time?minutes={minutes}&amp;v=2" '
               f'alt="Total code time: {minutes:,} minutes" />\n'
               '</p>\n'
               '<br clear="both" />'

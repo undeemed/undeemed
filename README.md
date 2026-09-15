@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 <p>
   <img align="left" src="https://readme-sigma-ten.vercel.app/api/visitors" alt="Profile views" />
-  <img align="right" src="https://readme-sigma-ten.vercel.app/api/code-time?minutes=95479" alt="Total code time: 95,479 minutes" />
+  <img align="right" src="https://readme-sigma-ten.vercel.app/api/code-time?minutes=95479&amp;v=2" alt="Total code time: 95,479 minutes" />
 </p>
 <br clear="both" />
 <!--END_SECTION:waka-->
