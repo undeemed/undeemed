@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="https://readme-sigma-ten.vercel.app/api/visitors" alt="Profile views" />
-</p>
+<!--START_SECTION:waka-->
+<table align="center">
+  <tr><th align="center">Profile views</th><th align="center">Total code time (minutes)</th></tr>
+  <tr>
+    <td align="center"><img src="https://readme-sigma-ten.vercel.app/api/visitors" alt="Profile views" /></td>
+    <td align="center"><img src="https://count.getloli.com/@undeemed.code-time?num=95478&amp;theme=asoul&amp;darkmode=0" alt="Total code time: 95,478 minutes" /></td>
+  </tr>
+</table>
+<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://readme-sigma-ten.vercel.app/api?username=undeemed&show_icons=true&theme=transparent&hide_title=true" alt="Jerry's GitHub stats" />
@@ -41,17 +47,3 @@
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" height="24"/>
   <img align="absmiddle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" height="24"/>
 </p>
-
----
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%205%20mins-blue?style=for-the-badge)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-806%20hrs%2013%20mins-blue?style=for-the-badge)
-
-
- Last Updated on 15/09/2026 21:08:01 UTC
-<!--END_SECTION:waka-->
-
-
-
