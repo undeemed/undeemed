@@ -1,11 +1,9 @@
 <!--START_SECTION:waka-->
-<table align="center">
-  <tr><th align="center">Profile views</th><th align="center">Total code time (minutes)</th></tr>
-  <tr>
-    <td align="center"><img src="https://readme-sigma-ten.vercel.app/api/visitors" alt="Profile views" /></td>
-    <td align="center"><img src="https://count.getloli.com/@undeemed.code-time?num=95479&amp;theme=asoul&amp;darkmode=0" alt="Total code time: 95,479 minutes" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-sigma-ten.vercel.app/api/visitors" alt="Profile views" />
+  &nbsp;&nbsp;
+  <img src="https://readme-sigma-ten.vercel.app/api/code-time?minutes=95479" alt="Total code time: 95,479 minutes" />
+</p>
 <!--END_SECTION:waka-->
 
 <p align="center">
