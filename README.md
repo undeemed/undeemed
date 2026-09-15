@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-<p>
-  <img align="left" src="https://readme-sigma-ten.vercel.app/api/visitors?v=3" alt="Profile views" />
-  <img align="right" src="https://readme-sigma-ten.vercel.app/api/code-time?minutes=95479&amp;v=3" alt="Total code time: 95,479 minutes" />
-</p>
-<br clear="both" />
+<div align="center">
+  <img align="top" src="https://readme-sigma-ten.vercel.app/api/visitors?v=4" alt="Profile views" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="top" src="https://readme-sigma-ten.vercel.app/api/code-time?minutes=95479&amp;v=4" alt="Total code time: 95,479 minutes" />
+</div>
 <!--END_SECTION:waka-->
 
 <p align="center">
