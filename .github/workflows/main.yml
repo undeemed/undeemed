@@ -54,12 +54,12 @@ jobs:
           before, section = content.split(start, 1)
           _, after = section.split(end, 1)
           counter = (
-              '<p align="center">\n'
-              '  <img src="https://readme-sigma-ten.vercel.app/api/visitors" alt="Profile views" />\n'
-              '  &nbsp;&nbsp;\n'
-              f'  <img src="https://readme-sigma-ten.vercel.app/api/code-time?minutes={minutes}" '
+              '<p>\n'
+              '  <img align="left" src="https://readme-sigma-ten.vercel.app/api/visitors" alt="Profile views" />\n'
+              f'  <img align="right" src="https://readme-sigma-ten.vercel.app/api/code-time?minutes={minutes}" '
               f'alt="Total code time: {minutes:,} minutes" />\n'
-              '</p>'
+              '</p>\n'
+              '<br clear="both" />'
           )
           readme.write_text(f"{before}{start}\n{counter}\n{end}{after}", encoding="utf-8")
           print(f"Total code time: {minutes:,} minutes")
