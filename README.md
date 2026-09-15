@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://count.getloli.com/@undeemed.github?theme=asoul" alt="Profile views" />
+  <img src="https://readme-sigma-ten.vercel.app/api/visitors" alt="Profile views" />
 </p>
 
 <p align="center">
