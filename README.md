@@ -2,7 +2,7 @@
 <div align="center">
   <img align="top" src="https://readme-sigma-ten.vercel.app/api/visitors?v=4" alt="Profile views" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="top" src="https://readme-sigma-ten.vercel.app/api/code-time?minutes=104172&amp;v=4" alt="Total code time: 104,172 minutes" />
+  <img align="top" src="https://readme-sigma-ten.vercel.app/api/code-time?minutes=104720&amp;v=4" alt="Total code time: 104,720 minutes" />
 </div>
 <!--END_SECTION:waka-->
 
